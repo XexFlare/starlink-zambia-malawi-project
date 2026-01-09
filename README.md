@@ -98,6 +98,8 @@ If repeating the project, the following changes would be made:
 
 Better upfront visibility would have reduced friction significantly.
 
+### Disclaimer
+This repository documents a generalized and sanitized version of a real-world infrastructure project. All sensitive details have been removed or modified. It is shared for educational and architectural discussion purposes only.
 
 
 ## Disclaimer
