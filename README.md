@@ -9,7 +9,7 @@ The project focused on restoring and stabilizing internet connectivity in enviro
 
 This is a practical case study covering constraints, decisions, execution realities, and lessons learned from operating in both urban and rural African contexts.
 
----
+
 
 ## The Problem
 Reliable internet connectivity was largely unavailable across many target locations.
@@ -19,7 +19,7 @@ Reliable internet connectivity was largely unavailable across many target locati
 
 Connectivity issues directly affected operations, reporting, coordination, and basic digital workflows.
 
----
+
 
 ## Why Conventional Solutions Failed
 Traditional connectivity options were not viable for several reasons:
@@ -32,7 +32,7 @@ Traditional connectivity options were not viable for several reasons:
 
 As a result, both fixed-line and mobile-based internet solutions proved unreliable.
 
----
+
 
 ## Constraints
 The project was executed under multiple constraints, including:
@@ -46,7 +46,7 @@ The project was executed under multiple constraints, including:
 
 These constraints required a highly adaptive, field-driven approach.
 
----
+
 
 ## Approach and Rationale
 Satellite internet was selected as the most viable solution because it:
@@ -61,7 +61,7 @@ The rollout prioritized:
 - Use of locally available resources wherever possible
 - Practical deployment over idealized designs
 
----
+
 
 ## What Worked
 Several decisions proved effective:
@@ -73,7 +73,7 @@ Several decisions proved effective:
 
 Local collaboration significantly reduced delays and improved sustainability.
 
----
+
 
 ## What Didn’t Work
 Key challenges and missteps included:
@@ -85,7 +85,7 @@ Key challenges and missteps included:
 
 These issues increased setup time and required on-the-fly adjustments.
 
----
+
 
 ## What I’d Do Differently Next Time
 If repeating the project, the following changes would be made:
@@ -98,7 +98,7 @@ If repeating the project, the following changes would be made:
 
 Better upfront visibility would have reduced friction significantly.
 
----
+
 
 ## Disclaimer
 This repository presents a generalized and sanitized account of a real-world project.  
